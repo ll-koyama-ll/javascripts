@@ -1,6 +1,14 @@
 # JavaScript学習のメモ帳
 主に備忘録。
 
+### 【schoo】
+
+ID
+koyama@aaps.jp
+
+pass
+s6L5A$!%pRw*
+
 ## ローカルサーバーの立ち上げ方法
 
 ```
@@ -11,7 +19,7 @@ npm run dev（ここでローカル環境が立ち上がる）
 - ブラウザのデベロッパーは```Alt```+```Ctrl```+```I```で開く。
 
 
-## SPAサイトの開発
+## vue.js SPAサイトの開発
 vue環境の開発設置
 ```
 npm init vite@latest
